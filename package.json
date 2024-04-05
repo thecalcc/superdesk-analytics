@@ -39,7 +39,7 @@
     "jasmine-core": "^2.99.1",
     "jasmine-reporters": "^2.3.0",
     "jquery": "3.3.1",
-    "jquery.gridster": "github:superdesk/gridster.js#c306335397816beceb74e4a176067baef34a0359",
+    "jquery.gridster": "github:superdesk/gridster.js#master",
     "karma": "^2.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-jasmine": "^1.1.1",
