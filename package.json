@@ -31,8 +31,6 @@
   },
   "devDependencies": {
     "@types/lodash": "4.14.117",
-    "@types/moment": "^2.13.0",
-    "@types/moment-timezone": "^0.5.13",
     "@typescript-eslint/parser": "2.6.1",
     "eslint": "6.6.0",
     "eslint-plugin-angular": "^1.6.1",
