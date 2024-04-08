@@ -20,7 +20,7 @@
   "homepage": "https://github.com/superdesk/superdesk-analytics#readme",
   "dependencies": {
     "angular-embed": "github:superdesk/angular-embed#d75968e",
-    "angular-embedly": "github:Urigo/angular-embedly#0.0.8",
+    "angular-embedly": "github:superdesk/angular-embedly#0.0.8",
     "highcharts": "^6.2.0",
     "lodash": "4.17.19",
     "moment": "^2.29.4",
@@ -31,8 +31,6 @@
   },
   "devDependencies": {
     "@types/lodash": "4.14.117",
-    "@types/moment": "^2.13.0",
-    "@types/moment-timezone": "^0.5.13",
     "@typescript-eslint/parser": "2.6.1",
     "eslint": "6.6.0",
     "eslint-plugin-angular": "^1.6.1",
@@ -41,7 +39,7 @@
     "jasmine-core": "^2.99.1",
     "jasmine-reporters": "^2.3.0",
     "jquery": "3.3.1",
-    "jquery.gridster": "github:dustmoo/gridster.js#c306335397816beceb74e4a176067baef34a0359",
+    "jquery.gridster": "github:superdesk/gridster.js#master",
     "karma": "^2.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-jasmine": "^1.1.1",
